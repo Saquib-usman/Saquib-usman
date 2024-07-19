@@ -40,17 +40,6 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [Your Twitter Profile](https://twitter.com/your-profile)
 
-## 🌟 Featured Projects
-
-### Project 1: [Project Name](https://github.com/Saquib-usman/project-1)
-A brief description of the project.
-
-### Project 2: [Project Name](https://github.com/Saquib-usman/project-2)
-A brief description of the project.
-
-### Project 3: [Project Name](https://github.com/Saquib-usman/project-3)
-A brief description of the project.
-
 ## 🌱 What I'm Learning
 
 - **Advanced Data Structures and Algorithms**
