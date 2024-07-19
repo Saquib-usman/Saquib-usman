@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 ## 📫 Connect with Me
 
 - **Email**: [saquibusman786@gmail.com](mailto:saquibusman786@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **leetcode**: [Your Twitter Profile](https://twitter.com/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/saquib-usman-349390290/)
+- **leetcode**: [Your leetcode Profile](https://leetcode.com/u/saquib_usman/)
 
 ## 🌱 What I'm Learning
 
