@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 - 🌱 I’m currently learning **Java** and **DSA**.
 - 👀 I’m interested in exploring cutting-edge technologies and enhancing my problem-solving skills.
 - 💞️ I’m looking to collaborate on internships and exciting projects.
-- 📫 Reach me at: saquibusman786@gmail.com
-- 
+- 📫 Reach me at: saquibusman786@gmail.com 
 
 ## 🛠️ Skills
 
