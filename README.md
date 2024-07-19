@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 - 👀 I’m interested in exploring cutting-edge technologies and enhancing my problem-solving skills.
 - 💞️ I’m looking to collaborate on internships and exciting projects.
 - 📫 Reach me at: saquibusman786@gmail.com
+- 
 
 ## 🛠️ Skills
 
@@ -38,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring software dev
 
 - **Email**: [saquibusman786@gmail.com](mailto:saquibusman786@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/your-profile)
+- **leetcode**: [Your Twitter Profile](https://twitter.com/your-profile)
 
 ## 🌱 What I'm Learning
 
