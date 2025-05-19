@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saquib Usman!
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring software developer currently diving deep into Data Structures and Algorithms (DSA) and Java. My journey in tech is driven by curiosity and the desire to build innovative solutions. Let's connect and collaborate!
+Welcome to my GitHub profile! I'm a passionate learner and aspiring software developer currently diving deep into Data Structures and Algorithms (DSA) with Java where i solved more than 250 Problems. My journey in tech is driven by curiosity and the desire to build innovative solutions. Let's connect and collaborate!
 
 ## 👀 About Me
 
